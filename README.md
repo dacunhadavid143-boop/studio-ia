@@ -135,7 +135,7 @@ Les tests couvrent la sécurité (clés, injection), la logique (alignement, dur
 
 ## 👤 Auteur
 
-**[David]**, créateur de contenu « dark motivation » sur TikTok.
+**David**, créateur de contenu « dark motivation » sur TikTok.
 Conçu et développé avec l'assistance de Claude (Anthropic).
 
 Licence [MIT](LICENSE).
