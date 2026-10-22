@@ -1,0 +1,22 @@
+# --- Secrets : ne JAMAIS publier ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# --- Médias générés et projets (lourds, et potentiellement privés) ---
+projets/
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.part
+!docs/demo/*
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
