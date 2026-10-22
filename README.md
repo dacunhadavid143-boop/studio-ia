@@ -65,7 +65,7 @@ tests/            # 11 tests, aucun appel réseau ni clé API nécessaire
 Prérequis : **Python 3.10+** et **ffmpeg** (`brew install ffmpeg` / `winget install Gyan.FFmpeg` / `apt install ffmpeg`).
 
 ```bash
-git clone https://github.com/<ton-compte>/studio-ia.git
+git clone https://github.com/dacunhadavid143-boop/studio-ia.git
 cd studio-ia
 pip install -r requirements.txt
 cp .env.example .env      # puis colle tes clés dans .env (jamais publié)
